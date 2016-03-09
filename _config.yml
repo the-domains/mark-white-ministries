@@ -1,0 +1,28 @@
+name: Mark White Ministries
+favicon: null
+layout_spectrum: 0.40014498797245324
+typography_spectrum: 0.6923204998020083
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6285748314112425
+  lightness: 0.06281177932396531
+  saturation: 0.814242917811498
+  rhythmicContrast: 0.615923875477165
+purpose: []
