@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T06:08:38.921Z'
-dateModified: '2016-03-10T06:08:35.149Z'
+datePublished: '2016-03-10T06:13:49.007Z'
+dateModified: '2016-03-10T06:13:44.451Z'
 title: Time the Unfound Friend
 author: []
 sourcePath: _posts/2016-03-09-time-the-unfound-friend.md
@@ -24,6 +24,6 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/00bda722-3c67-42db-bee3-1202265cf378.jpg)
 
-[web counter][0]
+[`Counter For Wordpress                                        `][0]
 
-[0]: http://www.simplehitcounter.com/
+[0]: http://www.hitwebcounter.com/ "Counter For Wordpress"
